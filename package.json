@@ -1,0 +1,12 @@
+{
+  "name": "AubergineBot",
+  "version": "0.0.1",
+  "description": "Twitter Bot to turn 🍆 to aubergine recipe",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.1.0",
+  },
+  "devDependencies": {},
+  "author": "Mariko Kosaka (http://twitter.com/kosamari)",
+  "license": "MIT",
+}
