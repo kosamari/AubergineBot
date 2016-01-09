@@ -27,7 +27,6 @@ function makeTweet (handle, recipeTitle, url) {
 }
 
 stream.on('tweet', function (msg) {
-  console.log(msg)
   if (msg.in_reply_to_screen_name === 'AubergineBot' && has1F346(msg.text)) {
     http.get({
       hostname: 'www.recipepuppy.com',
