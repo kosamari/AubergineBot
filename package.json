@@ -4,7 +4,7 @@
   "description": "Twitter Bot to turn 🍆 to aubergine recipe",
   "main": "bot.js",
   "dependencies": {
-    "twit": "^2.1.0",
+    "twit": "^2.1.0"
   },
   "devDependencies": {},
   "author": "Mariko Kosaka (http://twitter.com/kosamari)",
